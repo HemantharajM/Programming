@@ -1,0 +1,13 @@
+#!/bin/bash
+#: Title	: bpl 
+#: Date		: 2020-09-03
+#: Author	: Hemantharaj M
+#: Version	: 1.0
+#: Descriptions : Create dir inside Home and populate with two subdirectory 
+#: Options	: None
+
+cd $HOME
+mkdir bpl
+cd bpl
+mkdir bin
+mkdir scripts 

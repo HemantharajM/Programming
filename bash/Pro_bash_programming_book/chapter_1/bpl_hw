@@ -1,0 +1,12 @@
+#!/bin/bash
+#: Title	: bpl_hw 
+#: Date		: 2020-09-03
+#: Author	: Hemantharaj M
+#: Version	: 1.0
+#: Descriptions : Creat hw inside /bpl/bin/ and execute it 
+#: Options	: None
+
+cd $HOME/bpl/bin
+echo echo Hello, World! > hw.sh
+chmod +x hw.sh
+bash hw.sh

@@ -1,0 +1,9 @@
+#!/bin/bash
+#: Title	: rnd_ 
+#: Date		: 2020-13-03
+#: Author	: Hemantharaj M
+#: Version	: 1.0
+#: Descriptions : random output both to a file and variable 
+#: Options	: None
+
+echo $RANDOM |tee rand.txt 
