@@ -8,4 +8,5 @@ int main() {
     for(std::string const& brother : brothers) {
         std::cout << "Hello " << brother << std::endl;
     }
+    return 0;
 }
