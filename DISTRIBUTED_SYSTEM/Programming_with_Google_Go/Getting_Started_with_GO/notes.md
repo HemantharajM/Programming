@@ -18,9 +18,25 @@
 * __Go get__ - download package and install them
 * __Go list__ - list all installed packages
 * __Go run__ - compile .go file and run executable
+* __GO test__ - run tests using files ending in "_test.go"
 
 #### __Keywords__:
 * __import__ - access other packages
+
+
+#### __Code snippet__:
+* _Varible Declariation and Definition__:
+  __var__ x __int__
+  __var__ x , y __*int__
+  __var__ x __int__ = 100
+  __var__ x = 100
+* _Type alias_:
+  __type__ Celsius __float64__
+* _short varible Declaration_:
+  x__:=__10
+  ptr__:=__new(int) 
+
+
 
 
 
