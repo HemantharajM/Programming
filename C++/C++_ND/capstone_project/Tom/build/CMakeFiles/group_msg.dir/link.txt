@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread CMakeFiles/group_msg.dir/src/group_msg.cpp.o CMakeFiles/group_msg.dir/src/Tom_Publisher.cpp.o CMakeFiles/group_msg.dir/src/Socket.cpp.o -o group_msg 
